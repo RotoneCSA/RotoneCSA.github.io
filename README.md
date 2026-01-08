@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!-- Header -->
-<header>
-  <img src="https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl" alt="Geramae Rotone" class="profile-pic">
-  
 <html lang="en">
 <head>
   <meta charset="UTF-8">

@@ -143,7 +143,7 @@
   <!-- Header -->
 <header>
   <img 
-    src="images/profile.jpg" 
+    src="[images/profile.jpg](https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl)" 
     alt="Profile picture of Geramae Rotone" 
     class="profile-pic"
   >
@@ -152,7 +152,7 @@
 </header>
 
 
-ñ
+
   <!-- Navigation -->
   <nav>
     <a href="#about">About</a>

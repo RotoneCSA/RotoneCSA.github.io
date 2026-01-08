@@ -141,7 +141,7 @@
 <body>
 
   <!-- Header -->
-  <img src="Your profile https://share.google/o1sxAWCXoxwTaMPCu" class="profile-pic">
+  <img src="" class="profile-pic">
 
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>

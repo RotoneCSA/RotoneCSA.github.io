@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <!-- Header -->
 <header>
-  <img src=" alt="[Geramae Rotone](https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl)" class="profile-pic">
-  <h1>Geramae Rotone</h1>
-  <p>Web Developer | Designer | Nature Enthusiast</p>
-</header>
-
+  <img src="https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl" alt="Geramae Rotone" class="profile-pic">
+  
 <html lang="en">
 <head>
   <meta charset="UTF-8">

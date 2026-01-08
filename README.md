@@ -141,7 +141,7 @@
 <body>
 
   <!-- Header -->
-  <img src="https://www.facebook.com/photo.php?fbid=1277766187107906&set=a.102134774671059&type=3&app=fbl" class="profile-pic">
+  <img src="https://www.facebook.com/photo.php?" class="profile-pic">
 
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>

@@ -141,11 +141,18 @@
 <body>
 
   <!-- Header -->
-  <header>
-    <h1>Geramae Rotone</h1>
-    <p>Web Developer | Designer | Nature Enthusiast</p>
-  </header>
+<header>
+  <img 
+    src="images/profile.jpg" 
+    alt="Profile picture of Geramae Rotone" 
+    class="profile-pic"
+  >
+  <h1>Geramae Rotone</h1>
+  <p>Web Developer | Designer | Nature Enthusiast</p>
+</header>
 
+
+ñ
   <!-- Navigation -->
   <nav>
     <a href="#about">About</a>

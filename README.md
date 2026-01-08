@@ -141,10 +141,34 @@
 <body>
 
   <!-- Header -->
+  <img src="https://www.facebook.com/share/182Yf75p4v/" alt="Geramae Rotone Profile Picture" class="profile-pic">
+
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>
 ‎  </header>
 
+<!--style->
+.profile-pic {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 4px solid #ff6ec7;
+  box-shadow: 
+    0 0 15px #ff6ec7,
+    0 0 30px #8a2be2,
+    0 0 60px rgba(138,43,226,0.8);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+
+.profile-pic:hover {
+  transform: scale(1.05);
+  box-shadow: 
+    0 0 25px #ff6ec7,
+    0 0 50px #8a2be2,
+    0 0 80px rgba(255,110,199,1);
+}
 
   <!-- Navigation -->
   <nav>

@@ -201,10 +201,8 @@
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <p>Reach out through any platform below:</p>
-
-    ‎📧 <strong>Email:</strong> geramaerotone@gmail.com <br>
+    <a href="mailto:geramaerotone@gmail.com">Email</a>‎📧 <strong>Email:</strong> geramaerotone@gmail.com <br>
 ‎📱 <strong>Contact:</strong> 09129778226
-    <a href="mailto:geramaerotone@gmail.com">Email</a>
     <a href="https://github.com/yourusername" target="_blank">GitHub</a>
     <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a>
     <a href="YOUR_FACEBOOK_LINK_HERE" target="_blank">Facebook</a>

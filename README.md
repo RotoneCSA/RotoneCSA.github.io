@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Geramae Rotone | Nature Portfolio</title>
-  <link href="https://www.facebook.com/photo.php?fbid=1277766187107906&set=a.102134774671059&type=3&app=fbl
-    https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
     /* General Reset */
     * {
@@ -142,7 +141,7 @@
 <body>
 
   <!-- Header -->
-  <img src="https://www.facebook.com/photo.php?" class="profile-pic">
+  <img src="https://www.facebook.com/photo.php?" class="[profile-pic](https://www.facebook.com/photo.php?fbid=1277766187107906&set=a.102134774671059&type=3&app=fbl)">
 
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>

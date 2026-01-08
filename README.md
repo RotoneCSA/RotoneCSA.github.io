@@ -49,7 +49,7 @@
 
   <!-- About Section -->
   <section id="about" class="about">
-    <img src="profile.jpg" alt="Geramae Rotone" class="profile-pic">
+    <img src="https://www.facebook.com/photo.php?fbid=1277765607107964&set=a.102134774671059&type=3&app=fbl " alt="Geramae Rotone" class="profile-pic">
 
     <p>
       Inspired by nature. I love crafting websites that are modern, interactive, and calming—bringing the beauty of the outdoors into the digital space. Learning and exploring new technologies energize me as much as a walk in the forest!

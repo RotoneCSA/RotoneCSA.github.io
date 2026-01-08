@@ -141,15 +141,6 @@
 <body>
 
   <!-- Header -->
-<header>
-  <img 
-    src="[images/profile.jpg](https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl)" 
-    alt="[Profile picture of Geramae Rotone](https://www.facebook.com/100046236094515/posts/1277765607107964/?substory_index=1458802495287246&app=fbl)" 
-    class="profile-pic"
-  >
-  <h1>Geramae Rotone</h1>
-  <p>Web Developer | Designer | Nature Enthusiast</p>
-</header>
 
 
 

@@ -171,7 +171,8 @@
     <!-- PROFILE IMAGE -->
   <img src="https://uploads.onecompiler.io/44a2gqpwf/44a2vzmbf/1000008761.jpg" class="profile-pic" alt="Profile Picture">
 
-    <p>Web Developer | Designer | Tech Enthusiast</p>
+    <p>Web Developer | Designer </p>
+    "Confusion is part of programming"
   </header>
 
   <nav>

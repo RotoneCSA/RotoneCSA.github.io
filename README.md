@@ -2,11 +2,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  Geramae Rotone|Personal Portfolio
+  <title>Geramae Rotone | Nature Portfolio</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-<style>
+  <style>
     * {
       margin: 0;
       padding: 0;
@@ -114,7 +114,7 @@
     .project {
       text-align: center;
     }
-  
+
     /* SHIELD ICON STYLES */
     #skills img {
       margin: 10px;

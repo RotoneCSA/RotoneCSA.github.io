@@ -197,8 +197,7 @@
 ‎    <section>
 ‎        <h2>Skills</h2>
 ‎        <ul>
-‎            <li>HTML5 & CSS3</li>
-‎            <li>Responsive Web Design</li>
+‎            <li>HTML5 & CSS</li>
 ‎            <li>Basic JavaScript</li>
 ‎           
 

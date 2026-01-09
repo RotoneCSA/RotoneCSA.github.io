@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -209,8 +208,8 @@
     <p>Reach out through any platform below:</p>
 
     <p>📧 <strong>Email:</strong> geramaerotone@gmail.com</p>
-    <p>📱 <strong>Contact:</strong> 09129778226</p>
+    
 
     <a href="mailto:geramaerotone@gmail.com">Email</a>
     <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-    <a href="https://www.linkedin.com/in/yourprofile/" target="_blan
+  

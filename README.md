@@ -142,7 +142,7 @@
   <!-- header-->
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>
-‎  </header>
+‎  
 
 <!--style->
 .profile-pic {

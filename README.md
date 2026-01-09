@@ -114,7 +114,7 @@
     .project {
       text-align: center;
     }
-
+  
     /* SHIELD ICON STYLES */
     #skills img {
       margin: 10px;

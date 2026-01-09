@@ -1,9 +1,12 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Geramae Rotone | Nature Portfolio</title>
+
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
   <style>
     /* General Reset */
     * {
@@ -14,12 +17,11 @@
     }
 
     body {
-      background: linear-gradient(to bottom, #a8e6cf, #dcedc1); /* soft nature gradient */
+      background: linear-gradient(to bottom, #a8e6cf, #dcedc1);
       color: #2e3d32;
       overflow-x: hidden;
     }
 
-    /* Leaves/Forest animation background */
     body::before {
       content: '';
       position: fixed;
@@ -27,14 +29,14 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background: transparent url('https://i.ibb.co/mNfPvP7/leaves.png') repeat; /* example leaf pattern */
+      background: transparent url('https://i.ibb.co/mNfPvP7/leaves.png') repeat;
       z-index: -1;
       animation: moveLeaves 200s linear infinite;
     }
 
     @keyframes moveLeaves {
-      0% {background-position: 0 0;}
-      100% {background-position: -5000px 2000px;}
+      0% { background-position: 0 0; }
+      100% { background-position: -5000px 2000px; }
     }
 
     header {
@@ -43,11 +45,12 @@
       background: rgba(255,255,255,0.5);
       backdrop-filter: blur(5px);
       border-radius: 15px;
+      margin: 20px;
     }
 
     header h1 {
       font-size: 3rem;
-      color: #388e3c; /* forest green */
+      color: #388e3c;
       text-shadow: 0 0 10px #66bb6a, 0 0 20px #2e7d32;
       margin-bottom: 10px;
     }
@@ -56,6 +59,30 @@
       font-size: 1.2rem;
       color: #4e4e4e;
       text-shadow: 0 0 5px #a5d6a7;
+      margin-bottom: 20px;
+    }
+
+    /* PROFILE PICTURE */
+    .profile-pic {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      border: 4px solid #ff6ec7;
+      box-shadow:
+        0 0 15px #ff6ec7,
+        0 0 30px #8a2be2,
+        0 0 60px rgba(138,43,226,0.8);
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+    }
+
+    .profile-pic:hover {
+      transform: scale(1.05);
+      box-shadow:
+        0 0 25px #ff6ec7,
+        0 0 50px #8a2be2,
+        0 0 80px rgba(255,110,199,1);
     }
 
     nav {
@@ -134,82 +161,56 @@
       color: #4e4e4e;
       text-shadow: 0 0 3px #a5d6a7;
     }
-
   </style>
 </head>
+
 <body>
 
-  <!-- header-->
-<h1>Geramae Rotone</h1>
-‎    <p>Web Developer | Designer | Tech Enthusiast</p>
-‎  
+  <header>
+    <h1>Geramae Rotone</h1>
 
-<!--style->
-.profile-pic {
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 20px;
-  border: 4px solid #ff6ec7;
-  box-shadow: 
-    0 0 15px #ff6ec7,
-    0 0 30px #8a2be2,
-    0 0 60px rgba(138,43,226,0.8);
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-}
+    <!-- PROFILE IMAGE -->
+  <img src="https://uploads.onecompiler.io/44a2gqpwf/44a2vzmbf/1000008761.jpg" class="profile-pic" alt="Profile Picture">
 
-.profile-pic:hover {
-  transform: scale(1.05);
-  box-shadow: 
-    0 0 25px #ff6ec7,
-    0 0 50px #8a2be2,
-    0 0 80px rgba(255,110,199,1);
-}
+    <p>Web Developer | Designer | Tech Enthusiast</p>
+  </header>
 
-  <!-- Navigation -->
   <nav>
     <a href="#about">About</a>
     <a href="#projects">Projects</a>
     <a href="#contact">Contact</a>
   </nav>
 
-  <!-- About Section -->
   <section id="about" class="about">
     <h2>About Me</h2>
-    <p>Hello! I'm Geramae Rotone, a passionate web developer inspired by nature. I love crafting websites that are modern, interactive, and calming—bringing the beauty of the outdoors into the digital space. Learning and exploring new technologies energize me as much as a walk in the forest!</p>
+    <p>
+      Hello! I'm Geramae Rotone, a passionate web developer inspired by nature.
+      I love crafting websites that are modern, interactive, and calming—bringing
+      the beauty of the outdoors into the digital space.
+    </p>
   </section>
 
-  <!-- Projects Section -->
   <section id="projects" class="projects">
     <h2>My Projects</h2>
 
     <div class="project">
       <h3>Project One</h3>
-      <p>A brief description of your project goes here. Mention technologies used and what it does.</p>
+      <p>A brief description of your project goes here.</p>
     </div>
 
     <div class="project">
       <h3>Project Two</h3>
-      <p>A brief description of your project goes here. Mention technologies used and what it does.</p>
+      <p>A brief description of your project goes here.</p>
     </div>
-
   </section>
 
-  <!-- Contact Section -->
   <section id="contact" class="contact">
     <h2>Contact Me</h2>
     <p>Reach out through any platform below:</p>
-    <a href="mailto:geramaerotone@gmail.com">Email</a>‎📧 <strong>Email:</strong> geramaerotone@gmail.com <br>
-‎📱 <strong>Contact:</strong> 09129778226
+
+    <p>📧 <strong>Email:</strong> geramaerotone@gmail.com</p>
+    <p>📱 <strong>Contact:</strong> 09129778226</p>
+
+    <a href="mailto:geramaerotone@gmail.com">Email</a>
     <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-    <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a>
-    <a href="YOUR_FACEBOOK_LINK_HERE" target="_blank">Facebook</a>
-  </section>
-
-  <footer>
-    &copy; 2026 Geramae Rotone. All rights reserved.
-  </footer>
-
-</body>
-</html>
+    <a href="https://www.linkedin.com/in/yourprofile/" target="_blan

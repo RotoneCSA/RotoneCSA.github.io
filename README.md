@@ -175,6 +175,7 @@
   </header>
 
   <nav>
+    <href="#home">Home</a>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
@@ -190,8 +191,7 @@
   </section>
 
   <section id="projects" class="projects">
-    <h2>My Skills</h2>
-    
+  
    <!-- SKILLS -->
 ‎    <section>
 ‎        <h2>Skills</h2>

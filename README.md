@@ -183,9 +183,9 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <p>
-      Hello! I'm Geramae Rotone, a passionate web developer inspired by nature.
-      I love crafting websites that are modern, interactive, and calming—bringing
-      the beauty of the outdoors into the digital space.
+      Hello! I'm Geramae Rotone Computer Science student with a strong interest in web development. I enjoy learning new technologies, improving my coding skills, and building simple 
+‎yet meaningful projects. My goal is to continue developing my abilities and become 
+‎a skilled and confident developer in the future.
     </p>
   </section>
 

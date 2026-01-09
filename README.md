@@ -200,8 +200,7 @@
 ‎            <li>HTML5 & CSS3</li>
 ‎            <li>Responsive Web Design</li>
 ‎            <li>Basic JavaScript</li>
-‎            <li>UI / UX Fundamentals</li>
-‎        </ul>
+‎           
 
   </section>
 

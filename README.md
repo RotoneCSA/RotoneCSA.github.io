@@ -7,7 +7,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
-    /* General Reset */
     * {
       margin: 0;
       padding: 0;
@@ -58,10 +57,9 @@
       font-size: 1.2rem;
       color: #4e4e4e;
       text-shadow: 0 0 5px #a5d6a7;
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
 
-    /* PROFILE PICTURE */
     .profile-pic {
       width: 120px;
       height: 120px;
@@ -78,10 +76,6 @@
 
     .profile-pic:hover {
       transform: scale(1.05);
-      box-shadow:
-        0 0 25px #ff6ec7,
-        0 0 50px #8a2be2,
-        0 0 80px rgba(255,110,199,1);
     }
 
     nav {
@@ -95,12 +89,6 @@
       color: #2e3d32;
       text-decoration: none;
       font-weight: bold;
-      transition: 0.3s;
-    }
-
-    nav a:hover {
-      color: #388e3c;
-      text-shadow: 0 0 5px #66bb6a;
     }
 
     section {
@@ -113,28 +101,28 @@
       text-align: center;
       color: #2e7d32;
       margin-bottom: 30px;
-      text-shadow: 0 0 5px #66bb6a;
     }
 
     .about, .projects, .contact {
-      margin-bottom: 50px;
       background: rgba(255,255,255,0.2);
       padding: 30px;
       border-radius: 15px;
-      box-shadow: 0 0 20px rgba(46,61,50,0.2);
       backdrop-filter: blur(5px);
+      margin-bottom: 40px;
     }
 
-    .projects .project {
-      background: rgba(76,175,80,0.1);
-      padding: 20px;
-      margin-bottom: 20px;
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(56,142,60,0.5);
+    .project {
+      text-align: center;
     }
 
-    .projects .project h3 {
-      color: #388e3c;
+    /* SHIELD ICON STYLES */
+    #skills img {
+      margin: 10px;
+      transition: transform 0.3s ease;
+    }
+
+    #skills img:hover {
+      transform: scale(1.1);
     }
 
     .contact a {
@@ -142,73 +130,65 @@
       margin: 10px;
       padding: 12px 25px;
       background: #4caf50;
-      color: #fff;
+      color: white;
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
-      transition: 0.3s;
-    }
-
-    .contact a:hover {
-      background: #66bb6a;
-      box-shadow: 0 0 15px #66bb6a, 0 0 30px #388e3c;
     }
 
     footer {
       text-align: center;
       padding: 20px;
-      color: #4e4e4e;
-      text-shadow: 0 0 3px #a5d6a7;
     }
   </style>
 </head>
 
 <body>
 
-  <header>
-    <h1>Geramae Rotone</h1>
-
-    <!-- PROFILE IMAGE -->
+<header>
+  <h1>Geramae Rotone</h1>
   <img src="https://uploads.onecompiler.io/44a2gqpwf/44a2vzmbf/1000008761.jpg" class="profile-pic" alt="Profile Picture">
+  <p>"Confusion is part of programming"</p>
+</header>
 
-    Web Developer | Designer </p>
-    "Confusion is part of programming"
-  </header>
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
+</nav>
 
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <a href="#contact">Contact</a>
-  </nav>
-
-  <section id="about" class="about">
-    <h2>About Me</h2>
-    <p>
-      Hello! I'm Geramae Rotone Computer Science student with a strong interest in web development. I enjoy learning new technologies, improving my coding skills, and building simple 
-‎yet meaningful projects. My goal is to continue developing my abilities and become 
+<section id="about" class="about">
+  <h2>About Me</h2>
+  <p>
+    Hello! I'm Geramae Rotone, a Computer Science student with a strong interest in web development.
+    I enjoy learning new technologies, improving my coding skills, and building simple yet meaningful projects.My goal is to continue developing my abilities and become 
 ‎a skilled and confident developer in the future.
-    </p>
-  </section>
+  </p>
+</section>
 
-  <section id="projects" class="projects">
-  
-   <!-- SKILLS -->
-‎    <section>
-‎        <h2>Skills</h2>
-‎        <ul>
-‎            <li>HTML5 & CSS</li>
-‎            <li>Basic JavaScript</li>
-‎           
+<!-- SKILLS SECTION WITH SHIELDS -->
+<section id="skills" class="projects">
+  <h2>Skills</h2>
 
-  </section>
+  <div class="project">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  </div>
+</section>
 
-  <section id="contact" class="contact">
-    <h2>Contact Me</h2>
-    <p>Reach out through any platform below:</p>
+<section id="contact" class="contact">
+  <h2>Contact Me</h2>
+  <p>📧 <strong>Email:</strong> geramaerotone@gmail.com</p>
 
-    <p>📧 <strong>Email:</strong> geramaerotone@gmail.com</p>
-    
+  <a href="mailto:geramaerotone@gmail.com">Email</a>
+  <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+</section>
 
-    <a href="mailto:geramaerotone@gmail.com">Email</a>
-    <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+<footer>
+  © 2026 Geramae Rotone
+</footer>
+
+</body>
+</html>

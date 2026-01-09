@@ -176,7 +176,7 @@
 
   <nav>
     <a href="#about">About</a>
-    <a href="#projects">Projects</a>
+    <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
   </nav>
 
@@ -191,6 +191,16 @@
 
   <section id="projects" class="projects">
     <h2>My Skills</h2>
+    
+   <!-- SKILLS -->
+‎    <section>
+‎        <h2>Skills</h2>
+‎        <ul>
+‎            <li>HTML5 & CSS3</li>
+‎            <li>Responsive Web Design</li>
+‎            <li>Basic JavaScript</li>
+‎            <li>UI / UX Fundamentals</li>
+‎        </ul>
 
     <div class="project">
       <h3>Project One</h3>

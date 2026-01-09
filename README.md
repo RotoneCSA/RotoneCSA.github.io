@@ -175,7 +175,7 @@
   </header>
 
   <nav>
-    <href="#home">Home</a>
+    <a href="#home">Home</a>
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
     <a href="#contact">Contact</a>
@@ -202,15 +202,6 @@
 ‎            <li>UI / UX Fundamentals</li>
 ‎        </ul>
 
-    <div class="project">
-      <h3>Project One</h3>
-      <p>A brief description of your project goes here.</p>
-    </div>
-
-    <div class="project">
-      <h3>Project Two</h3>
-      <p>A brief description of your project goes here.</p>
-    </div>
   </section>
 
   <section id="contact" class="contact">

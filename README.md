@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -140,7 +139,7 @@
 </head>
 <body>
 
-  <!-- Header -->
+  <!-- header->
 <h1>Geramae Rotone</h1>
 ‎    <p>Web Developer | Designer | Tech Enthusiast</p>
 ‎  </header>

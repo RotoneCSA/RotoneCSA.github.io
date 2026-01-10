@@ -1,5 +1,18 @@
 # Geramae Rotone | Portfolio Website
-##About me
+
+  <p>"Confusion is part of programming"</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="about">
+  <h2>About Me</h2>
+  <p>
     Hello! I'm Geramae Rotone, a Computer Science student with a strong interest in web development.
     I enjoy learning new technologies, improving my coding skills, and building simple yet meaningful projects.My goal is to continue developing my abilities and become 
 ‎a skilled and confident developer in the future.
@@ -31,3 +44,4 @@
 
 </body>
 </html>
+    

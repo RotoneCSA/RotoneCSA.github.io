@@ -41,14 +41,12 @@ header h1 {
   font-size: 3rem;
   color: #388e3c;
   text-shadow: 0 0 10px #66bb6a, 0 0 20px #2e7d32;
-  margin-bottom: 10px;
 }
 
 header p {
   font-size: 1.2rem;
   color: #4e4e4e;
-  text-shadow: 0 0 5px #a5d6a7;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 .profile-pic {
@@ -56,17 +54,9 @@ header p {
   height: 120px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 20px;
+  margin: 20px 0;
   border: 4px solid #ff6ec7;
-  box-shadow:
-    0 0 15px #ff6ec7,
-    0 0 30px #8a2be2,
-    0 0 60px rgba(138,43,226,0.8);
-  transition: transform 0.4s ease;
-}
-
-.profile-pic:hover {
-  transform: scale(1.05);
+  box-shadow: 0 0 15px #ff6ec7, 0 0 30px #8a2be2;
 }
 
 nav {
@@ -77,21 +67,15 @@ nav {
 }
 
 nav a {
-  color: #2e3d32;
   text-decoration: none;
   font-weight: bold;
+  color: #2e3d32;
 }
 
 section {
   max-width: 900px;
   margin: 40px auto;
   padding: 0 20px;
-}
-
-section h2 {
-  text-align: center;
-  color: #2e7d32;
-  margin-bottom: 30px;
 }
 
 .about, .projects, .contact {
@@ -102,16 +86,12 @@ section h2 {
   margin-bottom: 40px;
 }
 
-.project {
-  text-align: center;
-}
-
-#skills img {
+.project img {
   margin: 10px;
   transition: transform 0.3s ease;
 }
 
-#skills img:hover {
+.project img:hover {
   transform: scale(1.1);
 }
 

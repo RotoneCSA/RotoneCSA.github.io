@@ -1,47 +1,24 @@
-# Geramae Rotone | Portfolio Website
+# 🌿 Geramae Rotone – Nature Portfolio
 
-  <p>"Confusion is part of programming"</p>
-</header>
+A simple personal portfolio website built using **HTML & CSS**.
 
-<nav>
-  <a href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#skills">Skills</a>
-  <a href="#contact">Contact</a>
-</nav>
+## ✨ Features
+- Nature-inspired animated background
+- Responsive layout
+- Skills displayed using Shields.io badges
+- Clean and beginner-friendly structure
 
-<section id="about" class="about">
-  <h2>About Me</h2>
-  <p>
-    Hello! I'm Geramae Rotone, a Computer Science student with a strong interest in web development.
-    I enjoy learning new technologies, improving my coding skills, and building simple yet meaningful projects.My goal is to continue developing my abilities and become 
-‎a skilled and confident developer in the future.
-  </p>
-</section>
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (basic knowledge)
+- Google Fonts
 
-<!-- SKILLS SECTION WITH SHIELDS -->
-<section id="skills" class="projects">
-  <h2>Skills</h2>
+## 📂 Project Structure
+## 🚀 How to Run
+1. Download or clone the repository
+2. Open `index.html` in your browser
 
-  <div class="project">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  </div>
-</section>
-
-<section id="contact" class="contact">
-  <h2>Contact Me</h2>
-  <p>📧 <strong>Email:</strong> geramaerotone@gmail.com</p>
-
-  <a href="mailto:geramaerotone@gmail.com">Email</a>
-  <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-</section>
-
-<footer>
-  © 2026 Geramae Rotone
-</footer>
-
-</body>
-</html>
-    
+## 📬 Contact
+**Email:** geramaerotone@gmail.com  
+**GitHub:** https://github.com/yourusername

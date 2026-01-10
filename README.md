@@ -1,24 +1,32 @@
 # 🌿 Geramae Rotone – Nature Portfolio
 
-A simple personal portfolio website built using **HTML & CSS**.
+A simple and elegant personal portfolio website inspired by nature.  
+This project showcases my profile, skills, and contact information using clean HTML and CSS.
+
+---
 
 ## ✨ Features
-- Nature-inspired animated background
-- Responsive layout
-- Skills displayed using Shields.io badges
-- Clean and beginner-friendly structure
+- 🌱 Nature-inspired design with animated background
+- 🎨 Modern and clean UI
+- 🖼️ Profile image display
+- 🛠️ Skills shown using Shields.io badges
+- 📱 Responsive layout (basic)
+
+---
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript (basic knowledge)
-- Google Fonts
+- **HTML5**
+- **CSS3**
+- **Google Fonts**
+- **Shields.io Badges**
+
+---
 
 ## 📂 Project Structure
-## 🚀 How to Run
-1. Download or clone the repository
-2. Open `index.html` in your browser
-
-## 📬 Contact
-**Email:** geramaerotone@gmail.com  
-**GitHub:** https://github.com/yourusername
+```text
+nature-portfolio/
+│
+├── index.html      # Main HTML file
+├── style.css       # Stylesheet
+├── Profile.jpg     # Profile image
+└── README.md       # Project documentation

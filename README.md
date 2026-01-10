@@ -1,4 +1,4 @@
-# 🌿 Geramae Rotone – Nature Portfolio
+#  Geramae Rotone|Personal Portfolio
 
 A simple and elegant personal portfolio website inspired by nature.  
 This project showcases my profile, skills, and contact information using clean HTML and CSS.

@@ -18,7 +18,7 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: transparent url('https://uploads.onecompiler.io/44a5xg7vk/44a62zy6g/Messenger_creation_9C3F1AFB-82D8-42C1-AF9D-D1CB844EF0EF.jpeg') repeat;
+  background: transparent url('https://uploads.onecompiler.io/44a649xfa/44a65mqc4/Messenger_creation_2151E9BB-9B55-4F2C-88B3-D48BA7CC7C0F.png') repeat;
   z-index: -1;
   animation: moveLeaves 200s linear infinite;
 }

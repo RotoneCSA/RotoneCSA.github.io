@@ -24,7 +24,7 @@ This project showcases my profile, skills, and contact information using clean H
 
 ## 📂 Project Structure
 ```text
-nature-portfolio/
+Personal Portfolio/
 │
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet
